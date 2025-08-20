@@ -1,0 +1,3 @@
+[submodule "d2_gsm"]
+	path = d2_gsm
+	url = https://github.com/venteto/django-project-reuse-gsm.git
