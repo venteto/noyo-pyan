@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# git submodule add <repository_url> [path/to/submodule]
+git submodule add https://github.com/venteto/django-project-reuse-gsm.git d2_gsm
